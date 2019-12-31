@@ -25,6 +25,9 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array default_rainbow
+array default_rainbow_name
+array palette
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -171,6 +174,8 @@ attr colorPrimary
 attr colorPrimaryDark
 attr colorSecondary
 attr colorSwitchThumbNormal
+attr colors
+attr columns
 attr commitIcon
 attr constraintSet
 attr constraint_referenced_ids
@@ -200,6 +205,7 @@ attr defaultQueryHint
 attr dialogCornerRadius
 attr dialogPreferredPadding
 attr dialogTheme
+attr dialogTitle
 attr displayOptions
 attr divider
 attr dividerHorizontal
@@ -375,6 +381,7 @@ attr listPreferredItemPaddingLeft
 attr listPreferredItemPaddingRight
 attr logo
 attr logoDescription
+attr material
 attr materialButtonStyle
 attr materialCardViewStyle
 attr maxActionInlineWidth
@@ -590,16 +597,23 @@ color abc_tint_switch_track
 color accent_material_dark
 color accent_material_light
 color album_title
+color azure
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color banana
+color basil
+color blue
+color blue_light
+color blueberry
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
 color bright_foreground_inverse_material_light
 color bright_foreground_material_dark
 color bright_foreground_material_light
+color bright_pink
 color button_material_dark
 color button_material_light
 color cardview_dark_background
@@ -609,6 +623,7 @@ color cardview_shadow_start_color
 color colorAccent
 color colorPrimary
 color colorPrimaryDark
+color cyan
 color design_bottom_navigation_shadow_color
 color design_default_color_primary
 color design_default_color_primary_dark
@@ -628,10 +643,16 @@ color dim_foreground_material_dark
 color dim_foreground_material_light
 color error_color_material_dark
 color error_color_material_light
+color flamingo
 color foreground_material_dark
 color foreground_material_light
+color grape
+color graphite
+color green
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color lavender
+color magenta
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -672,6 +693,9 @@ color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color orange
+color orange_dark
+color peacock
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -680,8 +704,11 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color red
+color red_light
 color ripple_material_dark
 color ripple_material_light
+color sage
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
@@ -692,9 +719,13 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color tangerine
+color tomato
 color tooltip_background_dark
 color tooltip_background_light
 color viewBg
+color violet
+color yellow
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -782,6 +813,10 @@ dimen card_margin
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
 dimen cardview_default_radius
+dimen color_swatch_large
+dimen color_swatch_margins_large
+dimen color_swatch_margins_small
+dimen color_swatch_small
 dimen compat_button_inset_horizontal_material
 dimen compat_button_inset_vertical_material
 dimen compat_button_padding_horizontal_material
@@ -1035,6 +1070,7 @@ drawable book8
 drawable book9
 drawable books
 drawable canvas
+drawable color_picker_swatch
 drawable cover
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
@@ -1042,12 +1078,17 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edittext_border
 drawable flowtext
 drawable grid
 drawable ic_account
+drawable ic_colorpicker_swatch_selected
 drawable ic_dashboard_black_24dp
+drawable ic_delete_white_24dp
 drawable ic_discover
 drawable ic_dots
+drawable ic_format_color_fill_white_24dp
+drawable ic_gesture_white_24dp
 drawable ic_home_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -1055,6 +1096,10 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
+drawable ic_palette_white_24dp
+drawable ic_redo_white_24dp
+drawable ic_share_white_24dp
+drawable ic_undo_white_24dp
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1075,7 +1120,12 @@ drawable tooltip_frame_light
 id ALT
 id CTRL
 id FUNCTION
+id FindButton
+id InputEditText
+id InputTextView
 id META
+id ResultEditText
+id ResultTextView
 id SHIFT
 id SYM
 id action_add_favourite
@@ -1086,6 +1136,7 @@ id action_bar_root
 id action_bar_spinner
 id action_bar_subtitle
 id action_bar_title
+id action_clear
 id action_container
 id action_context_bar
 id action_divider
@@ -1096,6 +1147,7 @@ id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
 id action_play_next
+id action_share
 id action_text
 id actions
 id activity_chooser_view_content
@@ -1123,6 +1175,9 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id collapsing_toolbar
+id color_picker
+id color_picker_checkmark
+id color_picker_swatch
 id container
 id content
 id contentPanel
@@ -1153,6 +1208,7 @@ id fill_vertical
 id filled
 id fixed
 id forever
+id fragment_dialog_stroke_selector_sb
 id frame_container
 id ghost_view
 id glide_custom_view_target_tag
@@ -1177,7 +1233,13 @@ id line3
 id listMode
 id list_item
 id love_music
+id main_color_iv
 id main_content
+id main_drawing_view
+id main_fill_iv
+id main_redo_iv
+id main_stroke_iv
+id main_undo_iv
 id masked
 id message
 id middle
@@ -1345,8 +1407,12 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_canvas
+layout activity_flowtext
 layout activity_main
 layout activity_recyclerview
+layout color_picker_dialog
+layout color_picker_swatch
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1364,6 +1430,7 @@ layout design_text_input_password_icon
 layout fragment_books
 layout fragment_books_row
 layout fragment_canvas
+layout fragment_dialog_stroke_selector
 layout fragment_flowtext
 layout fragment_grid
 layout fragment_home
@@ -1381,6 +1448,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu menu_album
+menu menu_main
 menu navigation
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -1429,25 +1497,40 @@ string app_name
 string appbar_scrolling_view_behavior
 string backdrop_subtitle
 string backdrop_title
+string banana
+string basil
+string blueberry
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
+string color_picker_default_title
+string color_swatch_description
+string color_swatch_description_selected
+string default_color
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string flamingo
+string grape
+string graphite
 string hide_bottom_view_on_scroll_behavior
+string lavender
 string mtrl_chip_close_icon_content_description
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string peacock
+string sage
 string search_menu_title
 string status_bar_notification_info_overflow
+string tangerine
 string title_books
 string title_canvas
 string title_flowtext
 string title_grid
 string title_home
+string tomato
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1971,6 +2054,7 @@ styleable Chip android_textAppearance android_ellipsize android_maxWidth android
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical singleLine singleSelection
 styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
+styleable ColorPreference colors columns dialogTitle material
 styleable ColorStateListItem android_color android_alpha alpha
 styleable CompoundButton android_button buttonTint buttonTintMode
 styleable ConstraintLayout_Layout android_orientation android_maxWidth android_maxHeight android_minWidth android_minHeight barrierAllowsGoneWidgets barrierDirection chainUseRtl constraintSet constraint_referenced_ids layout_constrainedHeight layout_constrainedWidth layout_constraintBaseline_creator layout_constraintBaseline_toBaselineOf layout_constraintBottom_creator layout_constraintBottom_toBottomOf layout_constraintBottom_toTopOf layout_constraintCircle layout_constraintCircleAngle layout_constraintCircleRadius layout_constraintDimensionRatio layout_constraintEnd_toEndOf layout_constraintEnd_toStartOf layout_constraintGuide_begin layout_constraintGuide_end layout_constraintGuide_percent layout_constraintHeight_default layout_constraintHeight_max layout_constraintHeight_min layout_constraintHeight_percent layout_constraintHorizontal_bias layout_constraintHorizontal_chainStyle layout_constraintHorizontal_weight layout_constraintLeft_creator layout_constraintLeft_toLeftOf layout_constraintLeft_toRightOf layout_constraintRight_creator layout_constraintRight_toLeftOf layout_constraintRight_toRightOf layout_constraintStart_toEndOf layout_constraintStart_toStartOf layout_constraintTop_creator layout_constraintTop_toBottomOf layout_constraintTop_toTopOf layout_constraintVertical_bias layout_constraintVertical_chainStyle layout_constraintVertical_weight layout_constraintWidth_default layout_constraintWidth_max layout_constraintWidth_min layout_constraintWidth_percent layout_editor_absoluteX layout_editor_absoluteY layout_goneMarginBottom layout_goneMarginEnd layout_goneMarginLeft layout_goneMarginRight layout_goneMarginStart layout_goneMarginTop layout_optimizationLevel

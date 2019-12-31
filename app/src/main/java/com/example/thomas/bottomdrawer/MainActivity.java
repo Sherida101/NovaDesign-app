@@ -10,12 +10,14 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
+import com.example.thomas.bottomdrawer.component.DrawingView;
 import com.example.thomas.bottomdrawer.fragment.AlbumViewPage;
-import com.example.thomas.bottomdrawer.fragment.BooksFragment;
 import com.example.thomas.bottomdrawer.fragment.FlowtextFragment;
 import com.example.thomas.bottomdrawer.fragment.GridFragment;
-import com.example.thomas.bottomdrawer.fragment.DiscoverFragment;
+import com.example.thomas.bottomdrawer.fragment.CanvasFragment;
 import com.example.thomas.bottomdrawer.fragment.HomeFragment;
+
+import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         setContentView(R.layout.activity_main);
 
         toolbar = getSupportActionBar();
@@ -51,22 +54,21 @@ public class MainActivity extends AppCompatActivity {
                     toolbar.setTitle("Flow text");
                     fragment = new FlowtextFragment();
                     loadFragment(fragment);
-                    return true;
+                    break;
                 case R.id.navigation_canvas:
-                    toolbar.setTitle("Discover");
-                    fragment = new DiscoverFragment();
-                    loadFragment(fragment);
-                    return true;
-                case R.id.navigation_grid:
-                    toolbar.setTitle("Grid");
-//                    fragment = new GridFragment();
+                    toolbar.setTitle("Canvas");
+//                    fragment = new CanvasFragment();
 //                    loadFragment(fragment);
 //                    return true;
-                    GridFragment gridView = new GridFragment(this);
-                    gridView.setNumColumns(4);
-                    gridView.setNumRows(6);
-
+                    setContentView(R.layout.activity_canvas);
+                    break;
+                case R.id.navigation_grid:
+                    toolbar.setTitle("Grid");
+                    GridFragment gridView = new GridFragment(MainActivity.this);
+                    gridView.setNumColumns(5);
+                    gridView.setNumRows(5);
                     setContentView(gridView);
+                    break;
                 case R.id.navigation_books:
                     toolbar.setTitle("Books");
 //                    fragment = new BooksFragment();
@@ -74,8 +76,8 @@ public class MainActivity extends AppCompatActivity {
 //                    return true;
                     Intent booksTab = new Intent(MainActivity.this, AlbumViewPage.class);
                     startActivity(booksTab);
-                    return true;
-//                    break;
+
+                    break;
             }
 
             return false;

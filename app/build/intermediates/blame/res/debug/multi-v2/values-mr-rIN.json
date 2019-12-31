@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr-rIN\\values-mr-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\f0d9183fb1f937a4b45b2c4ef6f5cad1\\color-picker-0.0.4\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,203,327",
+                        "endColumns": "97,123,139",
+                        "endOffsets": "198,322,462"
+                    }
+                }
+            ]
+        }
+    ]
+}

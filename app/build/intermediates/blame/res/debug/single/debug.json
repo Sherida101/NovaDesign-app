@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book2.png.flat",
-        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable\\book2.png"
-    },
-    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book2.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable\\book2.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -30,6 +30,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_books.png.flat",
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\books.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_share_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
@@ -46,6 +50,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_undo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_undo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_canvas.xml.flat",
@@ -72,12 +80,12 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_books_row.xml.flat",
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\layout\\fragment_books_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
@@ -108,6 +116,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -116,12 +128,12 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\b73d0db3c489aeab8b531c92b0313ef9\\support-compat-28.0.0\\res\\drawable\\notification_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\b73d0db3c489aeab8b531c92b0313ef9\\support-compat-28.0.0\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_discover.png.flat",
@@ -176,8 +188,16 @@
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_picker_swatch.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\f0d9183fb1f937a4b45b2c4ef6f5cad1\\color-picker-0.0.4\\res\\drawable\\color_picker_swatch.xml"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_redo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_redo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_ripple_color.xml.flat",
@@ -204,12 +224,12 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dots.png.flat",
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_dots.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -226,6 +246,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gesture_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_gesture_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -248,12 +272,12 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book16.png.flat",
@@ -280,8 +304,16 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gesture_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gesture_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\b73d0db3c489aeab8b531c92b0313ef9\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_palette_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_palette_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -432,8 +464,16 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_undo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\ic_undo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_album.xml.flat",
@@ -496,6 +536,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_format_color_fill_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_format_color_fill_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -532,6 +576,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\layout\\design_menu_item_action_area.xml"
     },
@@ -542,6 +590,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_undo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xhdpi\\ic_undo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -574,6 +626,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-mdpi\\ic_share_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book9.png.flat",
@@ -740,6 +796,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_canvas.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\layout\\activity_canvas.xml"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
     },
@@ -754,6 +814,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gesture_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xhdpi\\ic_gesture_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
@@ -772,6 +836,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_format_color_fill_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\ic_format_color_fill_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -782,6 +850,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -830,6 +902,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flowtext.png.flat",
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\flowtext.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_redo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\ic_redo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
@@ -888,12 +964,20 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_palette_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xhdpi\\ic_palette_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_ripple_color.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\color\\mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_colorpicker_swatch_selected.png.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\f0d9183fb1f937a4b45b2c4ef6f5cad1\\color-picker-0.0.4\\res\\drawable-mdpi-v4\\ic_colorpicker_swatch_selected.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -920,6 +1004,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flowtext.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\layout\\activity_flowtext.xml"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
@@ -934,6 +1022,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_discover.png.flat",
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable\\edittext_border.xml"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
@@ -982,6 +1074,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_undo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-mdpi\\ic_undo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1168,6 +1264,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\color\\abc_search_url_text.xml"
     },
@@ -1224,6 +1324,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\b73d0db3c489aeab8b531c92b0313ef9\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_format_color_fill_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xhdpi\\ic_format_color_fill_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -1260,6 +1364,14 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_colorpicker_swatch_selected.png.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\f0d9183fb1f937a4b45b2c4ef6f5cad1\\color-picker-0.0.4\\res\\drawable-xhdpi-v4\\ic_colorpicker_swatch_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gesture_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-mdpi\\ic_gesture_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\drawable-v21\\design_password_eye.xml"
     },
@@ -1270,6 +1382,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_colored_ripple_color.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_colorpicker_swatch_selected.png.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\f0d9183fb1f937a4b45b2c4ef6f5cad1\\color-picker-0.0.4\\res\\drawable-hdpi-v4\\ic_colorpicker_swatch_selected.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book3.png.flat",
@@ -1320,8 +1436,16 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_discover.png.flat",
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dialog_stroke_selector.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\layout\\fragment_dialog_stroke_selector.xml"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1406,6 +1530,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_undo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_undo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -1520,6 +1648,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_palette_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-mdpi\\ic_palette_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -1534,6 +1666,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_redo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_redo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1660,12 +1796,20 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_picker_swatch.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\f0d9183fb1f937a4b45b2c4ef6f5cad1\\color-picker-0.0.4\\res\\layout\\color_picker_swatch.xml"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\b73d0db3c489aeab8b531c92b0313ef9\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_palette_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\ic_palette_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
@@ -1716,6 +1860,14 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gesture_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_gesture_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_picker_dialog.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\f0d9183fb1f937a4b45b2c4ef6f5cad1\\color-picker-0.0.4\\res\\layout\\color_picker_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -1732,12 +1884,20 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_redo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xhdpi\\ic_redo_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1750,6 +1910,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_redo_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-mdpi\\ic_redo_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
@@ -1784,12 +1948,20 @@
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\flowtext.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_format_color_fill_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_format_color_fill_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_format_color_fill_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-mdpi\\ic_format_color_fill_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1932,6 +2104,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
     },
@@ -1960,6 +2136,10 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\layout\\design_layout_tab_icon.xml"
     },
@@ -1984,12 +2164,12 @@
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\9d7250a774d78c6da773e4ce19c93e82\\design-28.0.0\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_flowtext.xml.flat",
-        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\layout\\fragment_flowtext.xml"
-    },
-    {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recyclerview.xml.flat",
         "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\layout\\activity_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_flowtext.xml.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\layout\\fragment_flowtext.xml"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -2046,6 +2226,10 @@
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "C:\\Users\\Aaliyah\\.gradle\\caches\\transforms-2\\files-2.1\\7f5f0b3369d8fa8a72a20e2278ec0acc\\appcompat-v7-28.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_palette_white_24dp.png.flat",
+        "source": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\src\\main\\res\\drawable-hdpi\\ic_palette_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Aaliyah\\AndroidStudioProjects\\NovaDesign\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
