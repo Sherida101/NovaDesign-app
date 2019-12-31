@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NovaDesign</string>
+    <string name="title_home">Home</string>
+    <string name="title_flowtext">Flow text</string>
+    <string name="title_canvas">Canvas</string>
+    <string name="title_grid">Grid</string>
+    <string name="title_books">Books</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+</resources>
